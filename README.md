@@ -1,7 +1,7 @@
 ## Olá!! Sou o Miguel Moura
 
 - 🌱 JavaScript, HTML, CSS
-- ⚡ I make Art sometimes
+- ⚡ I draw sometimes
 
 <div>
   <a href="https://github.com/MigzMoura">
